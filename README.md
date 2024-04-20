@@ -1,2 +1,2 @@
-# Split-The-Bill
+# Python Projects
 Splitting bill among specified people.
