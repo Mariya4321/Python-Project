@@ -49,9 +49,4 @@ def game():
             print(f"Sorry, that's wrong!, Final score is {score}.")
             is_continue = False
 
-
-# random 2 data pick up
-# compare
-# score
-# shifting
 game()
